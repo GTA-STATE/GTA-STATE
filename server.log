@@ -1,0 +1,29 @@
+[22:43:40] alt:V Server 16.0.0-dev.342 (dev)
+[22:43:40] Starting En contrucciÃ³n on [::]:7788
+[22:43:40][Error] Failed to load "js-module.dll"
+  Win32 error: 126 (7e) | No se puede encontrar el módulo especificado.
+
+[22:43:40] Loading resource chat
+[22:43:40][Error] Failed to start resource chat unknown type js
+[22:43:40][Error] Failed to load resource chat
+[22:43:40] Required server permissions:
+[22:43:40] Optional server permissions:
+[22:43:40] Starting HTTP server on [::]:7788
+[22:43:40] Main thread started (ThreadId: 18344)
+[22:43:40] EntityStreamer thread started (ThreadId: 19004)
+[22:43:40] SyncSend thread started (ThreadId: 4588)
+[22:43:40] SyncSend thread started (ThreadId: 9224)
+[22:43:40] SyncSend thread started (ThreadId: 12604)
+[22:43:40] SyncSend thread started (ThreadId: 13044)
+[22:43:40] SyncSend thread started (ThreadId: 17912)
+[22:43:40] SyncSend thread started (ThreadId: 12672)
+[22:43:40] SyncSend thread started (ThreadId: 18068)
+[22:43:40] SyncSend thread started (ThreadId: 10260)
+[22:43:40] SyncReceive thread started (ThreadId: 5268)
+[22:43:40] SyncReceive thread started (ThreadId: 18152)
+[22:43:40] SyncReceive thread started (ThreadId: 19068)
+[22:43:40] SyncReceive thread started (ThreadId: 17716)
+[22:43:40] NetworkWorker #1 thread started (ThreadId: 15612)
+[22:43:40] Console thread started (ThreadId: 4832)
+[22:43:40] Server started
+[22:45:18] Server shutdown
